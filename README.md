@@ -35,7 +35,7 @@ Veri ile hikayeler oluşturmayı seven bir veri analistiyim. Veriyi analiz edere
 
 ### 🌍 Bana Ulaşın
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/mervekazancı)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/merve-kazancı-3b24bb14b/)
 - 📧 Email: [merveekazanci@gmail.com](merveekazanci@gmail.com)
 
 ---
