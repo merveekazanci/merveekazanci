@@ -1,4 +1,4 @@
-7# Merhaba, Ben Merve 👋
+👋 #Merhaba, Ben Merve 
 
 ## 📊 Veri Analisti & Veri Bilimi Meraklısı
 
