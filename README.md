@@ -24,11 +24,14 @@ Veri ile hikayeler oluşturmayı seven bir veri analistiyim. Veriyi analiz edere
 #### 🏆 **Nobel Ödülleri Analizi**
 - Nobel ödüllerinin yıllar içindeki dağılımını analiz ettim ve cinsiyet, yaş ve kategori arasındaki ilişkileri görselleştirdim.
 - 🚀 Kullanılan Araçlar: Python (Pandas, Seaborn), Matplotlib.
+- - 📁 [Proje Detayları](https://github.com/merveekazanci/Nobel-Pizes-Analysis)
   
 
 #### 🏨 **Otel Rezervasyonları Analizi**
 - Otel rezervasyon verilerini analiz ederek, müşterilerin rezervasyon davranışlarını inceledim ve önemli içgörüler çıkardım.
 - 🚀 Kullanılan Araçlar: Python
+- - 📁 [Proje Detayları](https://github.com/merveekazanci/Hotel-Bookings-Analysis)
+
 
 
 ---
