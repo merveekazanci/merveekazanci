@@ -1,4 +1,4 @@
-# Merhaba, Ben [merveekazanci]! 👋
+7# Merhaba, Ben Merve 👋
 
 ## 📊 Veri Analisti & Veri Bilimi Meraklısı
 
