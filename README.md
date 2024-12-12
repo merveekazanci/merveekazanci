@@ -29,11 +29,14 @@ Veri ile hikayeler oluşturmayı seven bir veri analistiyim. Veriyi analiz edere
 
 #### 🏨 **Otel Rezervasyonları Analizi**
 - Otel rezervasyon verilerini analiz ederek, müşterilerin rezervasyon davranışlarını inceledim ve önemli içgörüler çıkardım.
-- 🚀 Kullanılan Araçlar: Python
+- 🚀 Kullanılan Araçlar: Power BI
 - - 📁 [Proje Detayları](https://github.com/merveekazanci/Hotel-Bookings-Analysis)
 
 
-
+#### 🏆 **Süpermarket Analizi**
+- Süpermarket veri seti ile excelde veri manipüle, pivot tablo yapıp, kategoriler arasında satış ve gelirleri analiz edip, dashboard ile görselleştirdim.
+- 🚀 Kullanılan Araçlar: Excel
+- 📁 [Proje Detayları](https://github.com/username/nobel-prizes-analysis)
 ---
 
 ### 🌍 Bana Ulaşın
