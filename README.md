@@ -43,7 +43,7 @@ Veri ile hikayeler oluşturmayı seven bir veri analistiyim. Veriyi analiz edere
 #### 🏆 **Northwind Analizi**
 - Northwind şirketinin paylaşılan veri seti ile Product-Stock Analysis,Customer Analysis,Employee Analysis,Order Analysis ve Shipper Analysislerini yapıp şirket genelindeki durumları incelemiş bulunmaktayım.
 - 🚀 Kullanılan Araçlar: SQL,Python ve Power BI 
-- 📁 [Proje Detayları](https://github.com/merveekazanci/Northwind_Analizi)
+- 📁 [Proje Detayları](https://github.com/merveekazanci/Northwind-Analizi)
 ---
 
 
