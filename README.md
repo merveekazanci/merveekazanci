@@ -39,6 +39,14 @@ Veri ile hikayeler oluşturmayı seven bir veri analistiyim. Veriyi analiz edere
 - 📁 [Proje Detayları](https://github.com/merveekazanci/Supermarket_Analysis)
 ---
 
+
+#### 🏆 **Northwind Analizi**
+- Northwind şirketinin paylaşılan veri seti ile Product-Stock Analysis,Customer Analysis,Employee Analysis,Order Analysis ve Shipper Analysislerini yapıp şirket genelindeki durumları incelemiş bulunmaktayım.
+- 🚀 Kullanılan Araçlar: SQL,Python ve Power BI 
+- 📁 [Proje Detayları](https://github.com/merveekazanci/Northwind_Analysis)
+---
+
+
 ### 🌍 Bana Ulaşın
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/merve-kazancı-3b24bb14b/)
