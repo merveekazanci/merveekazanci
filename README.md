@@ -8,7 +8,7 @@ Veri ile hikayeler oluşturmayı seven bir veri analistiyim. Veriyi analiz edere
 
 ### 🌟 Hakkımda
 
-- 🔍 **Uzmanlık Alanlarım:** Veri Analizi, Veri Görselleştirme, RFM Analizi, Python, SQL, ve Tableau.
+- 🔍 **Uzmanlık Alanlarım:** Veri Analizi, Veri Görselleştirme, RFM Analizi, Python, SQL ve PowerBI .
 - 📈 **Çalıştığım Teknolojiler:**
   - Programlama: Python (Pandas, NumPy, Matplotlib, Seaborn), R.
   - Veri Tabanı: SQL (MySQL, PostgreSQL).
