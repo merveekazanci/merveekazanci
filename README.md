@@ -1,6 +1,6 @@
 # 👋 Merhaba, Ben Merve 
 
-## 📊 Veri Analisti & Veri Bilimi Meraklısı
+## 📊 Veri Analisti 
 
 Veri ile hikayeler oluşturmayı seven bir veri analistiyim. Veriyi analiz ederek anlamlı içgörüler elde etmeyi, görselleştirmeyi ve karar destek süreçlerine katkı sağlamayı hedefliyorum. GitHub profilimde hem profesyonel projelerimi hem de kişisel öğrenme süreçlerimi yansıtan içeriklere ulaşabilirsiniz.
 
