@@ -1,57 +1,49 @@
-# 👋 Merhaba, Ben Merve 
+👋 Hello, I'm Merve
+# 📊 Data Analysis Projects
 
-## 📊 Veri Analisti 
-
-Veri ile hikayeler oluşturmayı seven bir veri analistiyim. Veriyi analiz ederek anlamlı içgörüler elde etmeyi, görselleştirmeyi ve karar destek süreçlerine katkı sağlamayı hedefliyorum. GitHub profilimde hem profesyonel projelerimi hem de kişisel öğrenme süreçlerimi yansıtan içeriklere ulaşabilirsiniz.
-
----
-
-### 🌟 Hakkımda
-
-- 🔍 **Uzmanlık Alanlarım:** Veri Analizi, Veri Görselleştirme, RFM Analizi, Python, SQL ve PowerBI .
-- 📈 **Çalıştığım Teknolojiler:**
-  - Programlama: Python (Pandas, NumPy, Matplotlib, Seaborn), R.
-  - Veri Tabanı: SQL (MySQL, PostgreSQL).
-  - Görselleştirme Araçları: Power BI, Matplotlib, Seaborn.
-  - Diğer Araçlar: Excel, Google Sheets.
-- 📚 **Şu anda Öğreniyorum:** Makine Öğrenmesi ve Büyük Veri teknolojileri.
-- 💡 **Hedeflerim:** Daha fazla makine öğrenmesi projesi geliştirmek ve büyük veri analitiği alanında derinleşmek.
+Welcome to my GitHub repository! I am Merve, a data analyst passionate about uncovering insights and telling stories through data. This repository showcases my professional projects and personal learning journey in data analysis and visualization.
 
 ---
 
-### 📂 Öne Çıkan Projeler
+## 🌟 About Me
 
-#### 🏆 **Nobel Ödülleri Analizi**
-- Nobel ödüllerinin yıllar içindeki dağılımını analiz ettim ve cinsiyet, yaş ve kategori arasındaki ilişkileri görselleştirdim.
-- 🚀 Kullanılan Araçlar: Python (Pandas, Seaborn), Matplotlib.
-- - 📁 [Proje Detayları](https://github.com/merveekazanci/Nobel-Prizes-Analysis)
-  
+- 🔍 **Expertise:** Data Analysis, Data Visualization, RFM Analysis, Python, SQL, and Power BI.
+- 📈 **Technologies I Work With:**
+  - **Programming Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), R.
+  - **Databases:** SQL (MySQL, PostgreSQL).
+  - **Visualization Tools:** Power BI, Matplotlib, Seaborn.
+  - **Other Tools:** Excel, Google Sheets.
+- 📚 **Currently Learning:** Machine Learning and Big Data technologies.
+- 💡 **Goals:** To build more machine learning projects and deepen my expertise in big data analytics.
 
-#### 🏨 **Otel Rezervasyonları Analizi**
-- Otel rezervasyon verilerini analiz ederek, müşterilerin rezervasyon davranışlarını inceledim ve önemli içgörüler çıkardım.
-- 🚀 Kullanılan Araçlar: Power BI
-- - 📁 [Proje Detayları](https://github.com/merveekazanci/Hotel-Bookings-Analysis)
-
-
-#### 🏆 **Süpermarket Analizi**
-- Süpermarket veri seti ile excelde veri manipüle, pivot tablo yapıp, kategoriler arasında satış ve gelirleri analiz edip, dashboard ile görselleştirdim.
-- 🚀 Kullanılan Araçlar: Excel
-- 📁 [Proje Detayları](https://github.com/merveekazanci/Supermarket_Analysis)
 ---
 
+## 📂 Featured Projects
 
-#### 🏆 **Northwind Analizi**
-- Northwind şirketinin paylaşılan veri seti ile Product-Stock Analysis,Customer Analysis,Employee Analysis,Order Analysis ve Shipper Analysislerini yapıp şirket genelindeki durumları incelemiş bulunmaktayım.
-- 🚀 Kullanılan Araçlar: SQL,Python ve Power BI 
-- 📁 [Proje Detayları](https://github.com/merveekazanci/Northwind-Analizi)
+### 🏆 [Nobel Prizes Analysis](https://github.com/merveekazanci/Nobel-Prizes-Analysis)
+- **Description:** Analyzed the distribution of Nobel Prizes over the years and visualized the relationships between gender, age, and categories.
+- **Tools Used:** Python (Pandas, Seaborn), Matplotlib.
+
+### 🏨 [Hotel Bookings Analysis](https://github.com/merveekazanci/Hotel-Bookings-Analysis)
+- **Description:** Explored customer booking behaviors and derived actionable insights from hotel booking data.
+- **Tools Used:** Power BI.
+
+### 🏬 [Supermarket Analysis](https://github.com/merveekazanci/Supermarket_Analysis)
+- **Description:** Analyzed sales and revenue trends using Excel for data manipulation, pivot tables, and dashboards.
+- **Tools Used:** Excel.
+
+### 📊 [Northwind Analysis](https://github.com/merveekazanci/Northwind-Analizi)
+- **Description:** Conducted detailed analyses including Product-Stock Analysis, Customer Analysis, Employee Analysis, Order Analysis, and Shipper Analysis using the Northwind dataset.
+- **Tools Used:** SQL, Python, Power BI.
+
 ---
 
-
-### 🌍 Bana Ulaşın
+## 🌍 Connect With Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/merve-kazancı-3b24bb14b/)
 - 📧 Email: [merveekazanci@gmail.com](merveekazanci@gmail.com)
 
 ---
 
-⭐ Eğer projelerimi beğendiyseniz, repolarımı yıldızlamayı ve takip etmeyi unutmayın!
+⭐ If you enjoy my projects, feel free to star my repositories and follow me for more updates!
+
