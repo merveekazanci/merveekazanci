@@ -13,8 +13,6 @@ Welcome to my GitHub repository! I am Merve, a data analyst passionate about unc
   - **Databases:** SQL (MySQL, PostgreSQL).
   - **Visualization Tools:** Power BI, Matplotlib, Seaborn.
   - **Other Tools:** Excel, Google Sheets.
-- 📚 **Currently Learning:** Machine Learning and Big Data technologies.
-- 💡 **Goals:** To build more machine learning projects and deepen my expertise in big data analytics.
 
 ---
 
