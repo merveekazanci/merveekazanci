@@ -1,4 +1,4 @@
-👋 Hello, I'm Merve
+# 👋 Hello, I'm Merve
 # 📊 Data Analysis Projects
 
 Welcome to my GitHub repository! I am Merve, a data analyst passionate about uncovering insights and telling stories through data. This repository showcases my professional projects and personal learning journey in data analysis and visualization.
