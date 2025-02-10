@@ -39,7 +39,7 @@ Welcome to my GitHub repository! I am Merve, a data analyst passionate about unc
 ## 🌍 Connect With Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/merve-kazancı-3b24bb14b/)
-- 📧 (Email](merveekazanci@gmail.com)
+- 📧 [Email](merveekazanci@gmail.com)
 - 👨🏼‍💻 [Hackerrank](https://www.hackerrank.com/profile/merveekazanci)
 
 ---
