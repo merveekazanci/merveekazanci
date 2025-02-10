@@ -20,19 +20,20 @@ Welcome to my GitHub repository! I am Merve, a data analyst passionate about unc
 
 ### 🏆 [Nobel Prizes Analysis](https://github.com/merveekazanci/Nobel-Prizes-Analysis)
 - **Description:** Analyzed the distribution of Nobel Prizes over the years and visualized the relationships between gender, age, and categories.
-- **Tools Used:** Python (Pandas, Seaborn), Matplotlib.
+- 🚀**Tools Used:** Python (Pandas, Seaborn), Matplotlib.
+- 📁 [Proje Detayları](https://github.com/username/nobel-prizes-analysis)
 
 ### 🏨 [Hotel Bookings Analysis](https://github.com/merveekazanci/Hotel-Bookings-Analysis)
 - **Description:** Explored customer booking behaviors and derived actionable insights from hotel booking data.
-- **Tools Used:** Power BI.
+- 🚀**Tools Used:** Power BI.
 
 ### 🏬 [Supermarket Analysis](https://github.com/merveekazanci/Supermarket_Analysis)
 - **Description:** Analyzed sales and revenue trends using Excel for data manipulation, pivot tables, and dashboards.
-- **Tools Used:** Excel.
+- 🚀**Tools Used:** Excel.
 
 ### 📊 [Northwind Analysis](https://github.com/merveekazanci/Northwind-Analizi)
 - **Description:** Conducted detailed analyses including Product-Stock Analysis, Customer Analysis, Employee Analysis, Order Analysis, and Shipper Analysis using the Northwind dataset.
-- **Tools Used:** SQL, Python, Power BI.
+- 🚀**Tools Used:** SQL, Python, Power BI.
 
 ---
 
